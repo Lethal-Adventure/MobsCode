@@ -1,5 +1,5 @@
 # MobsCode
-Monsters Code AI and more for anything mob related
+Monsters Code AI and more for anything mob related For Lethal Adventure Dungeons Game in Minecraft.
 
 
 # Legal
